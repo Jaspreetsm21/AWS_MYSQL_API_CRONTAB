@@ -33,6 +33,6 @@
 
 6. Setting up WinSCP
 - This allows you to move files from Local Machine to AWS
-- Watch this Video: https://www.youtube.com/watch?v=asHj7ANyzm4&ab_channel=HyperBall
+- Watch this Video: https://www.youtube.com/watch?v=Ce876F9soxA
 - Need .ppk File to connect
 
