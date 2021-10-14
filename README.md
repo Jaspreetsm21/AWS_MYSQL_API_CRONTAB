@@ -29,7 +29,7 @@
 - Need SSH URL from AWS to Connect 
 - Download all Python Packages 
 - Create a new Folder and Python File with API Script 
-- Set up Crontab 
+- Set up Crontab Job
 
 6. Setting up WinSCP
 - This allows you to move files from Local Machine to AWS
